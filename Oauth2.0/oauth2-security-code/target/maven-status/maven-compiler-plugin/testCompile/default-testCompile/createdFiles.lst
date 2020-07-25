@@ -1,0 +1,5 @@
+CustomOauthException.class
+CustomWebResponseExceptionTranslator.class
+CustomAccessDeniedHandler.class
+CustomOauthExceptionSerializer.class
+OauthController.class
